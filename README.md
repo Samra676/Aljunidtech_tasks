@@ -8,7 +8,7 @@ Personal Information: Created a program that stores and displays my personal det
 
 Variable Swapping: Implemented an efficient method to swap values between two variables using Python’s tuple unpacking, highlighting the language’s simplicity and power.
 
-Types of Variables: Showcased various Python data types, including integers, floats, strings, booleans, lists, tuples, dictionaries, and sets, illustrating their usage and significance.        Task 2 ••• Operators
+Types of Variables: Showcased various Python data types, including integers, floats, strings, booleans, lists, tuples, dictionaries, and sets, illustrating their usage and significance.   
 
 Arithmetic Operators: Demonstrated fundamental mathematical operations, including addition, subtraction, multiplication, and division.
 
